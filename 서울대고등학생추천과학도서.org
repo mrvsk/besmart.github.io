@@ -1,0 +1,153 @@
+#+TITLE: 고등학생을 위한 서울대 과학 추천도서
+#+OPTIONS: toc:nil num:3 H:4 ^:nil pri:t
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css"/>
+
+# now prints out the previously disabled (toc:nil) table of contents.
+#+TOC: headlines 2
+
+
+* 고등학생을 위한 서울대 과학 추천도서
+
+** 이기적 유전자
+저자 리처드 도킨스
+
+출판 을유문화사
+
+발매 2010.08.10.
+
+상세보기
+1. 이기적 유전자
+저자: 리처드 도킨스
+출판사: 을유문화사
+
+** 종의 기원
+저자 찰스 로버트 다윈
+
+출판 동서문화사
+
+발매 2013.01.11.
+
+상세보기
+2., 종의기원
+저자: 찰스 로버트 다윈
+출판사: 동서문화사
+
+** 괴델, 에셔, 바흐
+저자 더글라스 호프스태터
+
+출판 까치
+
+발매 2017.07.10.
+
+상세보기
+3. 괴델, 에셔, 바흐
+저자: 더글라스 호프스태터
+출판사: 까치
+
+** 부분과 전체
+저자 베르너 하이젠베르크
+
+출판 지식산업사
+
+발매 2005.04.25.
+
+상세보기
+4. 부분과 전체
+저자: 베르너 하이젠베르크
+출판사: 지식산업사
+** 과학혁명의 구조
+저자 토마스 쿤
+
+출판 까치글방
+
+발매 2013.09.10.
+
+상세보기
+5. 과학 혁명의 구조
+저자: 토마스 쿤
+출판사: 까치글방
+** 과학고전선집
+저자 홍성욱
+
+출판 서울대학교출판부
+
+발매 2006.04.25.
+
+상세보기
+6. 과학고전선집
+저자: 홍성욱
+출판사: 서울대학교 출판부
+** 엔트로피
+저자 제레미 리프킨
+
+출판 세종연구원
+
+발매 2015.04.01.
+
+상세보기
+7. 엔트로피
+저자: 제레미 리프킨
+출판사: 세종연구원
+** 같기도 하고 아니 같기도 하고
+저자 로알드 호프만
+
+출판 까치글방(까치)
+
+발매 1996.12.01.
+
+상세보기
+8. 같기도 하고 아니기도 하고
+저자: 로알드 호프만
+출판사: 까치글방
+** 카오스
+저자 제임스 글릭
+
+출판 동아시아
+
+발매 2013.06.10.
+
+상세보기
+9. 카오스
+저자: 제임스 글릭
+출판사: 동아시아
+** 객관성의 칼날
+저자 찰스 길리스피
+
+출판 새물결
+
+발매 2006.07.12.
+
+상세보기
+10. 객관성의 칼날
+저자: 찰스 길리스피
+출판사: 새물결
+** 신기관
+저자 프랜시스 베이컨
+
+출판 한길사
+
+발매 2016.02.26.
+
+상세보기
+11. 신기관
+저자: 프랜시스 베이컨
+출판사: 한길사
+스티커 이미지
+
+고등학생을 위한 동양, 서양사상과 고전문학, 과학분야의 추천도서를 매년 갱신하여
+권장도서 100권을 선정하는 서울대학교이기에,
+매년 변화하는 권장도서를 독파하는 학생들이 많습니다.
+서울대학교를 목표로 입시를 준비하는 모든 수험생 여러분들을 위한 권장도서
+시리즈는 매년 개정해서 새로 포스팅하도록 할게요!
+
+# note the ignore tag
+
+# prints out bibliograph, if any, with bibtex2html.  The first parameter is the
+# bibliograph file name without .bib extension, the second is the reference
+# style.  The rest parameters are parsed to `bibtex2html'.  Refer to the
+# ox-bibtex document for further information.
+#+BIBLIOGRAPHY: ref.bib plain option:-nobibsource limit:t option:-nokeywords
+
+# This is an automatically generated section if you use footnote.
+* Footnotes
+
