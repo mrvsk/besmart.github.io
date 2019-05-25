@@ -1,6 +1,7 @@
 #+TITLE: 고등학생을 위한 서울대 과학 추천도서
 #+OPTIONS: toc:nil num:3 H:4 ^:nil pri:t
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="org.css"/>
+#+HTML_HEAD_EXTRA: <link rel="alternate stylesheet" type="text/css" href="style2.css" />
 
 # now prints out the previously disabled (toc:nil) table of contents.
 #+TOC: headlines 2
